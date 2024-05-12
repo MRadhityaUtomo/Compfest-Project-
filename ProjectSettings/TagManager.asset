@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: bg
+    uniqueID: 1753744909
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: kepala
+    uniqueID: 3582495359
+    locked: 0
+  - name: alis
+    uniqueID: 3803421429
+    locked: 0
+  - name: trail
+    uniqueID: 4110283553
+    locked: 0
+  - name: pedang
+    uniqueID: 1402069543
+    locked: 0
+  - name: player
+    uniqueID: 4172486091
+    locked: 0
+  - name: shield
+    uniqueID: 579416417
+    locked: 0
+  - name: New Layer 8
+    uniqueID: 2647803647
+    locked: 0
