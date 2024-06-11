@@ -6,11 +6,6 @@ using UnityEngine;
 public abstract class DamagePopUp : MonoBehaviour
 {
     protected TextMeshPro DamageText;
-    public IEnumerator DestroyObject(DamagePopUp damagePopUp)
-    {
-        yield return new WaitForSeconds(1);
-        Destroy(damagePopUp.gameObject);
-    }
     void Awake()
     {
         DamageText = GetComponent<TextMeshPro>();

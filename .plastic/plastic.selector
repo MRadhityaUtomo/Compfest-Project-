@@ -1,4 +1,4 @@
 repository "Project Compfest@Project_Compfest@cloud"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main/tomi_gay"    
+     
